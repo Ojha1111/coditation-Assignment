@@ -1,3 +1,9 @@
+during compilaing the code it will ask to put user inpute value for the height ,width and resolution it will work perfectoly for yhe height and width less than 1000 and resolution  accordingly
+
+
+
+
+
 Imagine an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two
 possible states, live or dead. Every cell interacts with its eight neighbors, which are the cells that are
 directly horizontally, vertically, or diagonally adjacent.
